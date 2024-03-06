@@ -1,0 +1,6 @@
+{
+    "sketch": "sensor-reader.ino",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "COM11"
+}
